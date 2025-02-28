@@ -63,3 +63,27 @@ body {
 h1 {
     color: #E95420; /* Cor oficial do Ubuntu */
 }
+
+/* Estilos específicos para o Fedora */
+
+body {
+    background-color: #f4f4f4;
+}
+
+h1.fedora-title {
+    color: #294172; /* Cor oficial do Fedora */
+}
+/* Estilos específicos para o título da página inicial */
+.home-title {
+    color: #4CAF50; /* Cor diferente para o título da página inicial */
+}
+
+/* Estilos especificos para o Debian */
+
+body {
+    background-color: #f4f4f4;
+}
+
+h1.debian-title {
+    color: #A80030; /* Cor oficial do Debian */
+}
