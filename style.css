@@ -54,7 +54,7 @@ section {
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
-
+/*---------------------------------------------------------------------------------------*/
 /* Estilos específicos para o Ubuntu */
 body {
     background-color: #f4f4f4;
@@ -65,6 +65,10 @@ h1 {
     
 }
 
+section p{
+    text-align: justify;
+}
+/*---------------------------------------------------------------------------------------*/
 /* Estilos específicos para o Fedora */
 
 body {
@@ -80,7 +84,7 @@ h1.fedora-title {
     height: auto; /* Mantém a proporção da imagem */
 }
 
-
+/*---------------------------------------------------------------------------------------*/
 
 /* Estilos específicos para o título da página inicial */
 .home-title {
@@ -100,7 +104,7 @@ h1.fedora-title {
 .page-title{
     text-align: justify;
 }
-
+/*---------------------------------------------------------------------------------------*/
 /* Estilos especificos para o Debian */
 
 body {
